@@ -38,4 +38,4 @@ jobs:
           file: dockerfiles/pkg/Dockerfile #path in repo to Dockerfile
           platforms: linux/amd64
           push: true
-          tags: ferubio/pkg_optim_kale:0.1
+          tags: jreyesgar93/pkg_optim_kale:0.1
