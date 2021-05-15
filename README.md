@@ -10,7 +10,7 @@ En este caso, se busca resolver un problema de programación lineal de enteros e
 
 ### Paquete Simplex
 
-El paquete desarrollado para resolver el problema se encuentra [aquí](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-1-segunda-parte-yefovar) y su documentación se encuentra [aquí](https://optimizacion-2-2021-1-gh-classroom.github.io/practica-1-segunda-parte-yefovar/index.html#)
+El paquete desarrollado para resolver el problema se encuentra [aquí](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-1-segunda-parte-yefovar) y su documentación se encuentra [aquí](https://optimizacion-2-2021-1-gh-classroom.github.io/practica-1-segunda-parte-yefovar/index.html#).
 
 ### Reporte
 
