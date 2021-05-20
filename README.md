@@ -14,6 +14,7 @@ Citi Bike es el sistema de bicicletas compartidas de la ciudad de Nueva York y e
 ### Método de Solución
 
 En este caso, se busca resolver un problema de programación lineal de enteros en donde las variables objetivos toman valores binarios de 0 y 1. Este tipo de problemas se les nombra programaciòn entera binaria y se utilizan para tomar decisiones óptimas para llevar a cabo o no una actividad. El valor de 1 en la variable a optimizar representa que sí se lleva a cabo y un valor de 0 que no.
+Se utilizará el método simplex ara resolver este problema de programación entera; sin embargo, deben cumplirse ciertos supuestos para asegurar una solución entera y óptima.
 
 ### Paquete Simplex
 
