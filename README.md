@@ -28,5 +28,5 @@ La liga al reporte en Overleaf se encuentra [aquí](https://www.overleaf.com/rea
 Se utilizó infraestructura montada en AWS, utilizando Kale y Minikube para ejecutar el pipeline. La instancia donde se ejecutó el proyecto utilizó la AMI opt2-aws-educate-17-03-2021 con m5.2xlarge, la cual tiene 8 CPU's.
 
 Se anexa evidencia de trabajo y solución del problema a través de cómputo en la nube.
-<img src="https://github.com/jreyesgar93/practica-final-opt-2021/blob/main/docs/images/Uso%20instancia%20AWS%20-%20Practica%202%20segunda%20parte.png">
+<img src="https://github.com/jreyesgar93/practica-final-opt-2021/blob/main/docs/images/Captura%20de%20Pantalla%202021-05-19%20a%20la(s)%2021.31.44.png">
 
