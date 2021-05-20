@@ -55,6 +55,3 @@ Se utilizó infraestructura montada en AWS, utilizando Kale y Minikube para ejec
 Se anexa evidencia de trabajo y solución del problema a través de cómputo en la nube.
 <img src="https://github.com/jreyesgar93/practica-final-opt-2021/blob/main/docs/images/Captura%20de%20Pantalla%202021-05-19%20a%20la(s)%2021.31.44.png">
 
-### Datos
-
-Los datos son públicos y pueden encontrarse (aquí)[https://s3.amazonaws.com/tripdata/index.html]. 
