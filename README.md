@@ -26,6 +26,16 @@ La liga al reporte en Overleaf se encuentra [aquí](https://www.overleaf.com/rea
 
 Se puede accesar directamente a las ligas de los hipervínculos o referencias desde el reporte, es importante que tiene que descargarse el archivo para poder utilizar esta funcionalidad.
 
+### Descarga de los datos
+
+Dado el tamaño de los datos, sugerimos descargarlos ejecutando el programa `download_files.sh` con el siguiente comando desde la terminal
+
+```
+./dowload_files.sh
+```
+
+Además, pueden encontrarse (aqui)[https://s3.amazonaws.com/tripdata/index.html]
+
 ### Presentación
 
 El material de la presentación se encuentra en la siguiente [liga](https://github.com/jreyesgar93/practica-final-opt-2021/blob/main/reporte/Optimizacion_simplex_citi_bike.pdf)
