@@ -32,7 +32,7 @@ El material de la presentación se encuentra en la siguiente [liga](https://gith
 
 ### Boton de Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jreyesgar93/practica-final-opt-2021/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jreyesgar93/practica-final-opt-2021/HEAD?urlpath=lab)
 
 ### Reporte resultados
 
