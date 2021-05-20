@@ -9,7 +9,7 @@
 
 ## Implementación del Algoritmo Simplex: Programación Lineal para Optimización de Ganancias en Bicicletas Compartidas
 
-Citi Bike es el sistema de bicicletas compartidas de la ciudad de Nueva York y el más grande de Estados Unidos.E l problema que a continuación se va a resolver es con programación lineal  y se desea optimizar los ingresos dependiendo del tipo de pases que ofrecen y sus respectivos precios.Este planteamiento se genera a partir de la nueva entrada de competidores al mercado lo cual puede afectar significativamente a la empresa Citi Bike y de igual manera tienen como objetivo evaluar opciones de reestructurara de precios para ver si es posible incrementar sus ingresos.
+Citi Bike es el sistema de bicicletas compartidas de la ciudad de Nueva York y el más grande de Estados Unidos. El problema que a continuación se va a resolver es con programación lineal  y se desea optimizar los ingresos dependiendo del tipo de pases que ofrecen y sus respectivos precios.Este planteamiento se genera a partir de la nueva entrada de competidores al mercado lo cual puede afectar significativamente a la empresa Citi Bike y de igual manera tienen como objetivo evaluar opciones de reestructurara de precios para ver si es posible incrementar sus ingresos.
 
 ### Método de Solución
 
