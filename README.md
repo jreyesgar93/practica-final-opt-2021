@@ -34,7 +34,7 @@ Dado el tamaño de los datos, sugerimos descargarlos ejecutando el programa `dow
 ./dowload_files.sh
 ```
 
-Además, pueden encontrarse (aqui)[https://s3.amazonaws.com/tripdata/index.html]
+Además, pueden encontrarse [aqui](https://s3.amazonaws.com/tripdata/index.html)
 
 ### Presentación
 
